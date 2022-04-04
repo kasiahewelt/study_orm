@@ -1,1 +1,3 @@
-# study_orm
+## study_orm
+
+Practise django ORM.
