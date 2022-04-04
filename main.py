@@ -14,6 +14,4 @@ class Book(models.Model):
         return self.name
 
 
-
-
-if __name__ == '__main__':
+# if __name__ == '__main__':
